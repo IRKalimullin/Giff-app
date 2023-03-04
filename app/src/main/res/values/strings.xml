@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Giff app</string>
+
+    <string name="gif_details">Gif details</string>
+    <string name="title">Title:</string>
+    <string name="username">Username:</string>
+    <string name="trending_gifs">Trending gifs</string>
+    <string name="searched_gifs">Searched gifs</string>
+    <string name="search_gifs">Search gifs</string>
+</resources>
